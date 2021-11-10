@@ -1,16 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package calculadoragit;
 
 import java.util.Scanner;
 
-/**
- *
- * @author luanl
- */
 public class CalculadoraGit {
 
     static int x, y;
